@@ -7,7 +7,7 @@ This is an unofficial app with many useful features.
 <br>
 
 <a href="https://github.com/iMro0t/youtube-music/releases/latest">
-	<img src="media/preview.png" width="846">
+	<img src="media/preview.PNG" width="846">
 </a>
 
 ## Highlights
@@ -33,7 +33,7 @@ You can toggle Picture In Picture Mode in the `View` menu or with <kbd>CTRL</kbd
 <br>
 
 <a href="https://github.com/iMro0t/youtube-music/releases/latest">
-	<img src="media/pip.png" width="846">
+	<img src="media/pip.PNG" width="846">
 </a>
 
 ### Keyboard shortcuts
