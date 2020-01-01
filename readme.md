@@ -1,8 +1,21 @@
-# YouTube Music <img src="static/icon.png" width="60">
+<h2 align="center">
+  <br>
+  <a href="https://github.com/iMro0t/youtube-music"><img src="static/icon.png" height="60" width="60"></a>
+  <br>
+  YouTube Music
+  <br>
+</h2>
 
-> YouTube Music desktop app
+<h4 align="center">YouTube Music Desktop App</h4>
 
-This is an unofficial app with many useful features.
+<p align="center">
+  <a href="https://github.com/iMro0t/youtube-music/releases">
+    <img src="https://img.shields.io/github/v/release/iMro0t/youtube-music">
+  </a>
+ <a href="https://github.com/iMro0t/youtube-music/releases/latest">
+    <img src="https://img.shields.io/github/downloads/iMro0t/youtube-music/total">
+  </a>
+</p>
 
 <br>
 
@@ -12,8 +25,8 @@ This is an unofficial app with many useful features.
 
 ## Highlights
 
-- [Keyboard shortcuts](#keyboard-shortcuts)
 - [Picture In Picture Mode](#picture-in-picture-mode)
+- [Keyboard shortcuts](#keyboard-shortcuts)
 - Silent auto-updates
 
 ## Install
@@ -28,7 +41,7 @@ _Currently Windows 7+ is supported (64-bit only)._
 
 ### Picture In Picture Mode
 
-You can toggle Picture In Picture Mode in the `View` menu or with <kbd>CTRL</kbd> <kbd>p</kbd>.
+You can toggle Picture In Picture Mode in the `File` menu or with <kbd>CTRL</kbd> <kbd>p</kbd>.
 
 <br>
 
